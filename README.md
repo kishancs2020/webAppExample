@@ -1,2 +1,2 @@
 # webAppExample
-Simple We APP
+Simple We Application.
