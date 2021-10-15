@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>लहरों से डर कर नौका पार नहीं होती,
+कोशिश करने वालों की कभी हार नहीं होती।..</h2>
 </body>
 </html>
