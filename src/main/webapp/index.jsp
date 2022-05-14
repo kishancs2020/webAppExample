@@ -2,10 +2,14 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>welcome to mahedi testing world</title>
+<title style="background-color:Tomato;">welcome to mahedi testing world</title>
 </head>
 <body>
-<h1>Death wish list</h1>
-<header>One day we will die</header>
+<h1 style="background-color:DodgerBlue;">Death wish list</h1>
+  <header style="background-color:Tomato;">One day we will die</header>
+<p style="background-color:Tomato;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
 </body>
 </html>
