@@ -38,7 +38,7 @@
 			</container>
 		</configuration>
 	</plugin>
-		
+		<!-- Dummy comments -->
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
